@@ -1,0 +1,1 @@
+# This a Opencv face detection sample project
