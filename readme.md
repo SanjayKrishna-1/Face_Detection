@@ -1,1 +1,3 @@
-# This a Opencv face detection sample project
+# This a Opencv face detection project
+
+# Using Python
